@@ -1,17 +1,17 @@
 :root.a{
-  --backgroudPrimary: #180fc0;
+  --backgroudPrimary: #070618;
   --primaryColor:#00D4D1;
   --secondaryColor:#FF0040;
   --textColor: #f1f3f4;
 }
 
 .landingScreen{
-    height: 100vh;
+    height: 105vh;
     width: 100%;
     background-color: #070618;
     padding: 0;
     margin: 0;
-    background-image: url('../public/images/bull_rdouble_gradient.png');
+    background-image: url('../public/images/bull_rcdouble_gradient.png');
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
